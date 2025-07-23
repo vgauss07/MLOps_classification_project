@@ -1,0 +1,18 @@
+2025-07-17 02:06:35,146 - INFO -Read the data successfully
+2025-07-17 02:06:35,151 - INFO -Starting Handling Outliers
+2025-07-17 02:06:35,154 - INFO -Handled outliers successfully
+2025-07-17 02:06:35,158 - INFO -Data splitted successfully
+2025-07-17 02:06:35,183 - INFO -File saved successfully for data processing step.
+2025-07-17 14:17:47,451 - INFO -Read the data successfully
+2025-07-17 14:17:47,451 - INFO -Starting Handling Outliers
+2025-07-17 14:17:47,458 - INFO -Handled outliers successfully
+2025-07-17 14:17:47,463 - INFO -Data splitted successfully
+2025-07-17 14:17:47,470 - INFO -File saved successfully for data processing step.
+2025-07-17 17:15:23,742 - INFO -Model Training Initialized...
+2025-07-17 17:15:23,749 - INFO -Data Loaded Successfully...
+2025-07-17 17:15:23,756 - INFO -Model Trained and Saved Successfully
+2025-07-17 17:15:23,766 - INFO -Accuracy Score: 1.0
+2025-07-17 17:15:23,766 - INFO -Precision Score: 1.0
+2025-07-17 17:15:23,766 - INFO -Recall Score: 1.0
+2025-07-17 17:15:23,766 - INFO -F1 Score: 1.0
+2025-07-17 17:15:25,792 - INFO -Confusion Matrix saved successfully..

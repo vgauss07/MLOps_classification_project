@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pandas = "*"
+numpy = "*"
+scikit-learn = "*"
+flask = "*"
+joblib = "*"
+matplotlib = "*"
+seaborn = "*"
+mlops-project-x = {file = ".", editable = true}
+
+[dev-packages]
+
+[requires]
+python_version = "3.12"
