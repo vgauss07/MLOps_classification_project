@@ -1,0 +1,13 @@
+2025-09-15 23:40:42,902 - INFO -Read the data successfully
+2025-09-15 23:40:42,902 - INFO -Starting Handling Outliers
+2025-09-15 23:40:42,905 - INFO -Handled outliers successfully
+2025-09-15 23:40:42,907 - INFO -Data splitted successfully
+2025-09-15 23:40:42,918 - INFO -File saved successfully for data processing step.
+2025-09-15 23:40:42,918 - INFO -Model Training Initialized...
+2025-09-15 23:40:42,920 - INFO -Data Loaded Successfully...
+2025-09-15 23:40:42,927 - INFO -Model Trained and Saved Successfully
+2025-09-15 23:40:42,935 - INFO -Accuracy Score: 1.0
+2025-09-15 23:40:42,935 - INFO -Precision Score: 1.0
+2025-09-15 23:40:42,936 - INFO -Recall Score: 1.0
+2025-09-15 23:40:42,936 - INFO -F1 Score: 1.0
+2025-09-15 23:40:43,526 - INFO -Confusion Matrix saved successfully..
