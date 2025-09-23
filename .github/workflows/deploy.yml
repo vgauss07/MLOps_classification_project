@@ -1,0 +1,9 @@
+name: CI/CD Deployment to GKE
+
+on:
+    push:
+        branches: 
+            - main
+
+env:
+    PROJECT_ID: ${{ secrets.GCP_PROJECT_ID }}
